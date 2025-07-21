@@ -1,0 +1,144 @@
+.uber
+{
+  background-color: black;
+  color: white;
+  border-style: solid;
+  cursor: pointer;
+  margin-right: 8px;
+  padding-top: 7.5px;
+  padding-bottom: 7.5px;
+  padding-left: 15.594px;
+  padding-right: 15.594px;
+  transition: opacity 0.15s;
+  vertical-align:top ;
+}
+
+.uber:hover{
+opacity:0.8;
+}
+
+.amazon
+{
+  background-color: rgb(255, 216, 20);
+  border: none;
+  color: black;
+  border-radius: 18px;
+  font-weight: 20px;
+  cursor: pointer;
+  margin-right: 8px;
+  padding-top: 7.5px;
+  padding-bottom: 7.5px;
+  padding-left: 45.281px;
+  padding-right: 45.281px;
+  transition: background-color 0.15s;
+  vertical-align:top ;
+}
+
+.amazon:hover{
+   background-color: rgb(255, 200, 10);
+}
+
+.github
+{
+  background-color: rgb(46, 164, 79);
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15.5625px;
+  padding-right: 15.5625px;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: box-shadow 0.15s;
+  vertical-align:top ;
+}
+
+.github:hover{
+  box-shadow: 0px 5px 15px rgba(0,0,0,.3);
+}
+
+.bootstrap
+{
+  background-color: rgb(121, 82, 179);
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding-top: 9.5px;
+  padding-bottom: 9.5px;
+  padding-left: 16.0235px;
+  padding-right: 16.0235px;
+  border-radius: 4px;
+  Transition: background-color 0.15s;
+  vertical-align:top ;
+}
+
+.bootstrap:hover{
+  background-color: rgb(90, 56, 145);
+}
+
+.bootstrap2
+{
+  background-color: white;
+  color: rgb(108,117,125);
+  border-style: solid;
+  border-color: rgb(108,117,125);
+  cursor: pointer;
+  border-radius: 4px;
+  border-width: 1px;
+  padding-top: 8.5px;
+  padding-bottom: 8.5px;
+  padding-left: 16.3515px;
+  padding-right: 16.3515px;
+  transition: background-color 0.15s,color 0.15s;
+  vertical-align:top ;
+}
+
+.bootstrap2:hover{
+  background-color: rgb(108, 117, 125);
+  color: white;
+}
+
+.linkedin
+{
+  background-color: rgb(10,102,194);
+  color: white;
+  border: none;
+  border-radius: 18px;
+  font-weight: bold;
+  padding-top: 8.5px;
+  padding-bottom: 8.5px;
+  padding-left: 19.078px;
+  padding-right: 19.078px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+  vertical-align:top ;
+}
+
+.linkedin:hover{
+  background-color:rgb(5, 70, 134);
+}
+
+.linkedin2
+{
+  color: rgb(10,102,194);
+  background-color: white;
+  border-style: solid;
+  border-color: rgb(10,102,194);
+  border-radius: 18px;
+  border-width: 1px;
+  font-weight: bold;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 23.4295px;
+  padding-right: 23.4295px;
+  cursor: pointer;
+ transition: background-color 0.15s,border-width 0.15s;
+ vertical-align:top ;
+}
+
+
+.linkedin2:hover{
+  background-color :whitesmoke;
+  border-width: 2px;
+}
